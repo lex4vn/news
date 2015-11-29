@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>2</id>
+  <lang></lang>
+  <title>Quang cao trai</title>
+  <form>sequential</form>
+  <width>190</width>
+  <height>500</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>http&amp;#x3A;&amp;#x002F;&amp;#x002F;vnptnamdinh.vn&amp;#x002F;</title>
+      <clid>0</clid>
+      <file_name>vnptnamdinh20139218521.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>398</file_width>
+      <file_height>168</file_height>
+      <file_alt></file_alt>
+      <file_click>http://vnptnamdinh.vn/</file_click>
+      <target>_blank</target>
+      <publ_time>1448642551</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>4</id>
+      <title>http&amp;#x3A;&amp;#x002F;&amp;#x002F;ebook.edu.net.vn&amp;#x002F;</title>
+      <clid>0</clid>
+      <file_name>edu.net20133229025.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>170</file_width>
+      <file_height>61</file_height>
+      <file_alt></file_alt>
+      <file_click>http://ebook.edu.net.vn/</file_click>
+      <target>_blank</target>
+      <publ_time>1448642504</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>1</id>
+      <title>Sở Giáo dục và Đào tạo Nam Định</title>
+      <clid>0</clid>
+      <file_name>sgdnd20133229423.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>203</file_width>
+      <file_height>161</file_height>
+      <file_alt></file_alt>
+      <file_click>http://namdinh.edu.vn/</file_click>
+      <target>_blank</target>
+      <publ_time>1448557801</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>2</id>
+      <title>Thư viện trực tuyến ViOLET</title>
+      <clid>0</clid>
+      <file_name>violet20133228530.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>206</file_width>
+      <file_height>105</file_height>
+      <file_alt></file_alt>
+      <file_click>http://violet.vn/main/</file_click>
+      <target>_blank</target>
+      <publ_time>1448557801</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
