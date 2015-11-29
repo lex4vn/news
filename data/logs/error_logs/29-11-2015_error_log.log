@@ -1,7 +1,0 @@
-[Sun, 29 Nov 2015 06:33:24 +0700] [Array] [Notice(8): Undefined index: numrow] [FILE: /modules/news/blocks/module.block_newscenter.php] [LINE: 102]
-[Sun, 29 Nov 2015 06:33:24 +0700] [Array] [Notice(8): Undefined index: length_title] [FILE: /modules/news/blocks/module.block_newscenter.php] [LINE: 122]
-[Sun, 29 Nov 2015 06:33:24 +0700] [Array] [Notice(8): Undefined index: length_hometext] [FILE: /modules/news/blocks/module.block_newscenter.php] [LINE: 176]
-[Sun, 29 Nov 2015 20:16:59 +0700] [Array] [User Notice(1024): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
-] [FILE: /includes/class/sql_db.class.php] [LINE: 80]
-[Sun, 29 Nov 2015 20:16:59 +0700] [Array] [User Error(256): Sorry! Could not connect to data server] [FILE: /includes/mainfile.php] [LINE: 284]
-[Sun, 29 Nov 2015 20:17:17 +0700] [Array] [Notice(8): Undefined offset: 1] [FILE: /includes/cronjobs/error_log_destroy.php] [LINE: 97]
